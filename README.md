@@ -1,4 +1,19 @@
-## Hi there 👋
+### About Me
+
+* I'm a Computer Science student at the University of Florida.
+* I'm interested in artificial intelligence, machine learning, robotics, and building software that solves practical problems.
+* I work mostly with Python, Java, C++, JavaScript, and React.
+
+### Featured Projects
+
+* [DevShowcase](https://devshowcaseproject.com) — An automated portfolio-as-a-service platform designed for engineering students searching for jobs
+* **LiDAR Clustering** — Compared DBSCAN and Euclidean clustering on SemanticKITTI point-cloud data.
+* **Campus Compass** — Built a graph-based campus navigation system using shortest-path and spanning-tree algorithms.
+
+### Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/jackson-bailey-92b26032b/)
+
 
 <!--
 **JBailey0703/JBailey0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
