@@ -8,7 +8,7 @@
 
 * [DevShowcase](https://devshowcaseproject.com) — An automated portfolio-as-a-service platform designed for engineering students searching for jobs
 * **LiDAR Clustering** — Compared DBSCAN and Euclidean clustering on SemanticKITTI point-cloud data.
-* **Campus Compass** — Built a graph-based campus navigation system using shortest-path and spanning-tree algorithms.
+* **ATS-Resume Tailor** — An agent skill for truthfully tailoring LaTeX resumes to job postings.
 
 ### Connect With Me
 
