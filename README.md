@@ -12,7 +12,7 @@
 
 ### Connect With Me
 
-* [LinkedIn](https://www.linkedin.com/in/jackson-bailey-92b26032b/)
+* [LinkedIn](https://www.linkedin.com/in/jacksonbaileyuf/)
 
 
 <!--
